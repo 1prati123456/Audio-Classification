@@ -26,4 +26,4 @@ The two models used were -
 
 ANN gives better result than the KNN but still not that great. The main reason for the bad performance is suspected to be the unbalanced dataset. So, classification was done using OVERSAMPLING and the performace of the model increased.
 
-The similar approach was implemented on the category class for classification later
+The similar approach was implemented on the category class for classification later.
